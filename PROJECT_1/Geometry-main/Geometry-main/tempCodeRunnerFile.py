@@ -1,0 +1,1 @@
+corners = np.delete(corners, [4,13,22,31], axis=0)
